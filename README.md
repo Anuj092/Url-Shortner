@@ -72,7 +72,7 @@ yarn run start
 
 ## Blog
 
-[Creating custom URL shortener with Nodejs](https://codeburst.io/creating-custom-url-shortener-with-nodejs-de10bbbb89c7)
+[Creating custom URL shortener with Nodejs
 
 ## ☑ TODO
 
