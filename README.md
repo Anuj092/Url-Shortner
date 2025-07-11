@@ -37,7 +37,7 @@ Building a custom URL shortening service like goo.gl using ExpressJs and Mongodb
 
 ```sh
 # clone it
-git clone https://github.com/muhzi4u/URL-Shortner.git
+git clone https://github.com/Anuj092/URL-Shortner.git
 cd URL-Shortner
 # Make it your own
 rm -rf .git && git init
